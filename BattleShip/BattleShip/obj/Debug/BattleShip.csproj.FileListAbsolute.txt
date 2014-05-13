@@ -1,0 +1,9 @@
+c:\users\jednike-pc\documents\visual studio 2013\Projects\BattleShip\BattleShip\bin\Debug\BattleShip.exe.config
+c:\users\jednike-pc\documents\visual studio 2013\Projects\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+c:\users\jednike-pc\documents\visual studio 2013\Projects\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+c:\users\jednike-pc\documents\visual studio 2013\Projects\BattleShip\BattleShip\obj\Debug\BattleShip.Form1.resources
+c:\users\jednike-pc\documents\visual studio 2013\Projects\BattleShip\BattleShip\obj\Debug\BattleShip.Properties.Resources.resources
+c:\users\jednike-pc\documents\visual studio 2013\Projects\BattleShip\BattleShip\obj\Debug\BattleShip.csproj.GenerateResource.Cache
+c:\users\jednike-pc\documents\visual studio 2013\Projects\BattleShip\BattleShip\obj\Debug\BattleShip.exe
+c:\users\jednike-pc\documents\visual studio 2013\Projects\BattleShip\BattleShip\obj\Debug\BattleShip.pdb
+c:\users\jednike-pc\documents\visual studio 2013\Projects\BattleShip\BattleShip\obj\Debug\BattleShip.csprojResolveAssemblyReference.cache
